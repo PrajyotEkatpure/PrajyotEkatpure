@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/prajyotekatpure)
+![Leetcode Stats](https://leetcard.jacoblin.cool/psekt)
 [![LinkedIn](img.shields.io)](prajyotsekatpure)
 
 <!--
