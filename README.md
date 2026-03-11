@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 ![Leetcode Stats](https://leetcard.jacoblin.cool/psekt)
-[![LinkedIn](img.shields.io)](prajyotsekatpure)
+[![LinkedIn](img.shields.io)](prajyotsekatpure) 
 
 <!--
 **PrajyotEkatpure/PrajyotEkatpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
